@@ -1,0 +1,27 @@
+### Singular Pronouns (واحد ضمیر)
+- **one** - ایک
+- **each** - ہر ایک
+- **every** - ہر
+- **everyone** - ہر کوئی
+- **everybody** - سب لوگ
+- **everything** - ہر چیز
+- **someone** - کوئی
+- **somebody** - کوئی شخص
+- **something** - کچھ
+- **anybody** - کوئی بھی
+- **anyone** - کوئی بھی
+- **anything** - کچھ بھی
+- **nothing** - کچھ نہیں
+
+### Plural Pronouns (جمع ضمیر)
+- **both** - دونوں
+- **few** - کچھ
+- **many** - بہت سے
+- **several** - کئی
+- **others** - دوسرے
+
+### Singular and Plural Pronouns (واحد اور جمع دونوں ضمیر)
+- **all** - سب
+- **some** - کچھ
+- **more** - زیادہ
+- **none** - کوئی نہیں
