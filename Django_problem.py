@@ -9,3 +9,14 @@ solution: python manage.py migrate --run-syncdb
 Solution: After 1 day sepending finally I got solution of this problem which is I was rendered 
 the form with the help of every field like this " {{form.First_Name}} , {{form.Last_Name}}, {{form.Email}}, {{form.Password}}, {{form.Confirm_Password}}" and then I have tried to save the data in the database. No error showed at the time in terminal and broswer but the data is not saved in the database.When I rendered the form like this "{{form.as_p}}" then the data is saved successfully in the database.so keep in mind that we have to render the form in this way "{{form.as_p}}" otherwise the data is not saved in the database.
 """
+babarrehman1970@gmail.com
+Babar@1970
+ahaidbutt7@gmail.com
+M3Hive@2024
+jawadqayyum.dev@gmail.com
+Ronaldo@786!@#
+ahaidbutt.dev@gmail.com
+Password:
+M3Hive@2024
+Rehanshah.dev@gmail.com/Rehanshahdev85@gmail.com
+2024Remoteusa
